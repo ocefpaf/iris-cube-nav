@@ -1,7 +1,7 @@
 name:
     iris-cube-nav
 channels:
-    - IOOS  # Because I think this is quicker than scitools atm.
+    - ioos
 dependencies:
     - iris
     - matplotlib
